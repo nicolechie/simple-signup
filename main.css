@@ -1,0 +1,9 @@
+.brand-logo {
+	background-image: url('ncwlogo-black.svg');
+	height: 192px;
+    background-repeat: no-repeat;
+}
+.half {
+	width: 49%;
+	margin-bottom: 8px;
+}
